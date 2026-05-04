@@ -54,6 +54,13 @@ Then open the provided local URL in your browser, enter property details, and cl
 ## API Endpoints
 This project does not expose any HTTP API endpoints (UI-only app).
 
+## Screenshots / Demo
+Input Screen:
+![Input Screen](screenshots/input.png)
+
+Prediction Result:
+![Prediction Result](screenshots/outputt.png)
+
 
 ## Environment Variables
 No environment variables are required for the current setup.
