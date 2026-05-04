@@ -51,6 +51,9 @@ streamlit run app.py
 
 Then open the provided local URL in your browser, enter property details, and click Predict Price.
 
+## Live Demo
+https://house-price-predictor-mwy849zc7nsc563h2hrah2.streamlit.app/
+
 ## API Endpoints
 This project does not expose any HTTP API endpoints (UI-only app).
 
